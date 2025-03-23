@@ -29,6 +29,6 @@
     "**/*.tsx",
     ".next/types/**/*.ts",
     "lib/seed.ts"
-  ],
+, "tailwind.config.js"  ],
   "exclude": ["node_modules"]
 }
